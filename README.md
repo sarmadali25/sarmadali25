@@ -26,14 +26,16 @@
 
 ## 🔧 Technical Skills
 
+![Languages](https://img.shields.io/badge/Languages-4CAF50?style=for-the-badge&logo=code&logoColor=white&labelColor=2E7D32&color=66BB6A)
 
-#### **Languages:**
+
 <p>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+   <img src="https://github.com/user-attachments/assets/dbdc3304-4e42-491c-aab8-b57080f73d27" alt="javascript" width="40" height="40"/>
    &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
-#### **Frontend Frameworks & Libraries:**
+![Frontend Frameworks & Libraries](https://img.shields.io/badge/Frontend%20Frameworks%20%26%20Libraries-4CAF50?style=for-the-badge&logo=code&logoColor=white&labelColor=2E7D32&color=66BB6A)
+
 <p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
@@ -46,7 +48,9 @@
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </p>
  
-#### **Mobile Application Development:**
+
+![Mobile Application Development](https://img.shields.io/badge/Mobile%20Application%20Development-4CAF50?style=for-the-badge&logo=code&logoColor=white&labelColor=2E7D32&color=66BB6A)
+
 <p>
    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </p>
