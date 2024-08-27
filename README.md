@@ -14,9 +14,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarmad-arshad" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sarmad-arshad" height="30" width="40" /></a>
-<a href="https://github.com/sarmadali25" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="sarmadali25" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sarmad-arshad" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e8bf8cc3-a1cd-448c-93a8-11d7e9652598" alt="sarmad-arshad" height="40" width="40" />
+  </a>&nbsp;<a href="https://www.sarmadarshad.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1674d0b5-b044-4e07-8491-751317edcd32" alt="sarmad-arshad" height="40" width="40" />
+  </a>
 </p>
+
+
+
 
 ## 🔧 Technical Skills
 
@@ -24,7 +30,7 @@
 #### **Languages:**
 <p>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </p>
 
 #### **Frontend Frameworks & Libraries:**
